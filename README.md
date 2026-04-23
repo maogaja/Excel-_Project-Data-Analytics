@@ -22,23 +22,32 @@ I used the following Excel Skills for analysis:
 
 ## Data Jobs Dataset  
 
-The dataset I used in this project containsreal-world data science job information from 2024. It contains detailed information on:   
-* Job Titles
-* Salaries
-* Locations
-* Skills
+The dataset I used in this project contains real-world data science job information from 2024. It contains detailed information on:   
 
-Dashboard Build  
+* 👨‍💼 Job titles
+* 💰 Salaries
+* 📍 Locations
+* 🛠️ Skills
 
-Charts  
-Data Science Job Salaries -Bar Chart  
+
+## Dashboard Build  
+
+## 📉 Charts  
+
+📊 Data Science Job Salaries -Bar Chart  
+
 <img width="462" height="272" alt="Data Science Job-Bar Chart" src="https://github.com/user-attachments/assets/5b9d749d-ae52-46f7-b582-4864a4632c89" />  
-*Excel Features: Utilised bar chart feature (with formatted salary values) and optimised layout for clarity.  
-* Design Choice: Horizontal bar chart for visual comparison of median salaries.
-* Data Organization: Sorted job titles by descending salary for improved readability.
-* Insight Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
-  Country Median Salaries- Map Chart
+&nbsp;
+
+* 🛠️ Excel Features: Utilised bar chart feature (with formatted salary values) and optimised layout for clarity.  
+* 🎨 Design Choice: Horizontal bar chart for visual comparison of median salaries.
+* 📉  Data Organization: Sorted job titles by descending salary for improved readability.
+
+
+ 💡 Insight Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
+
+## 🗺️ Country Median Salaries- Map Chart
   
   <img width="486" height="273" alt="Country Median Salaries-Maps" src="https://github.com/user-attachments/assets/eb64875e-2c1d-4762-a31a-f36da1c62de6" />
   *Excel Features: Utilised Excel's map chart features to plot median salaries globally.
