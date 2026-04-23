@@ -10,8 +10,7 @@ I created this data jobs salary dashboard to help me investigate salaries and ma
 This data sourced from various job platforms provided a foundation in analyzing data using this powerful tool. The data contains information on job titles, salaries, locations, and essential skills.  
 
 ##Dashboard File  
-My Final dashboard is in https://github.com/maogaja/Excel-_Project-Data-Analytics/blob/main/Project%20One%20Excel.xlsx  
-
+My Final dashboard is in [Project_One_Excel.xlsx](Project_One_Excel.xlsx)
 Excel Skills Used  
 
 I used the following Excel Skills for analysis:  
