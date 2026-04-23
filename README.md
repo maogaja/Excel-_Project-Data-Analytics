@@ -3,23 +3,24 @@ Project 1 Excel Salary Dashboard
 
 <img width="1292" height="1020" alt="Recording 2026-04-22 at 16 45 53" src="https://github.com/user-attachments/assets/61c4c869-9944-44fc-afa4-4a252d906100" />  
 
-##Introduction  
+## Introduction  
 
 I created this data jobs salary dashboard to help me investigate salaries and markets for my desired jobs and enusre that I have a true picture of adequate compensation. 
 
 This data sourced from various job platforms provided a foundation in analyzing data using this powerful tool. The data contains information on job titles, salaries, locations, and essential skills.  
 
-##Dashboard File  
+## Dashboard File  
 My Final dashboard is in [Project_One_Excel.xlsx](Project_One_Excel.xlsx)
+
 Excel Skills Used  
 
 I used the following Excel Skills for analysis:  
 
-* Job Titles
-* Formulas and Functions
-* Data Validation
+* 📉 Charts
+* 🧮 Formulas and Functions
+* ❎ Data Validation
 
-##Data Jobs Dataset  
+## Data Jobs Dataset  
 
 The dataset I used in this project containsreal-world data science job information from 2024. It contains detailed information on:   
 * Job Titles
